@@ -1,5 +1,7 @@
 # GhostMic
 
+![GhostMic](social-preview.png)
+
 **Invisible AI meeting assistant for Linux.** Captures system audio, transcribes in real-time with local Whisper (GPU-accelerated), and answers questions mid-meeting via Claude. No bots join your call. No cloud transcription. Your audio never leaves your machine.
 
 Built as an open-source alternative to [Cluely](https://cluely.com/).
